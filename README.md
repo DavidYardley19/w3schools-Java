@@ -1,7 +1,12 @@
+States:\
+Discovered\
+Amended\
+Recapped
+
 ***
 Java Tutorial
 ***
-Java HOME\
+Java HOME > Discovered\
 Java Intro\
 Java Get Started\
 Java Syntax\
